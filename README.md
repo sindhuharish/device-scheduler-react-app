@@ -29,10 +29,10 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ### Screenshots
 
-![screenshots/agenda_view.png](agenda_view.png)
+![screenshots/agenda_view.png](agenda_view.png/agenda_view.png)
 
-![screenshots/month_view.png](month_view.png)
+![screenshots/month_view.png](agenda_view.png/month_view.png)
 
-![screenshots/week_view.png](week_view.png)
+![screenshots/week_view.png](agenda_view.png/week_view.png)
 
 
